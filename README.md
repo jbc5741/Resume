@@ -17,6 +17,7 @@ Lifelong Learning | Professional Writing | Team Leadership
  Study of complex programs and entities. | Attention to detail. | Effective & direct communication.
  Detailed note-taking. | Idea presentation to multiple important parties. | Personability
  Carrying lessons learned to the next objective. | Coordination with external partners | Utilization of *all* staff potential.
+ 
  ---
  ### WORK EXPERIENCE
  #### NAVAL HELICOPTER AIRCREWMAN (2012-2018)

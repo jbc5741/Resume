@@ -1,10 +1,14 @@
 ### ![Picture of Me](https://avatars0.githubusercontent.com/u/47066755?s=460&v=4)
 # Jesse Cox 
 ## - Del Mar, CA - 512.623.0670 - jbc5741@gmail.com -
--
+
+---
+
 ### GOAL STATEMENT
 #### To become a creative and driving force in the development of new and cutting edge software.
+
 ---
+
 ### PERSONAL SUMMARY
 
 - United States Navy veteran: Spent six years as a Navy Helicopter Rescue Swimmer. Trained in the Navy’s newest and most advanced multi-platform integrations software, providing connectivity between Aircraft Carrier commanders and combat helicopters.
@@ -23,9 +27,8 @@ Lifelong Learning | Professional Writing | Team Leadership
  
  ---
  
- ### WORK EXPERIENCE
- 
- #### NAVAL HELICOPTER AIRCREWMAN (2012-2018)
+### WORK EXPERIENCE
+#### NAVAL HELICOPTER AIRCREWMAN (2012-2018)
  
 - Training (2017-2018): In charge of the overall training program for 28 crew members, planned and administered training events, and maintained training records for all members.
 - Operations (2015-2017): Planned simulator events and aircraft flights for 55 crew members resulting in various crew qualifications and designations through 40,000+ flight hours.

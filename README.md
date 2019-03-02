@@ -1,7 +1,7 @@
 ### ![Picture of Me](https://avatars0.githubusercontent.com/u/47066755?s=460&v=4)
 # Jesse Cox 
 ## - Del Mar, CA - 512.623.0670 - jbc5741@gmail.com -
----
+-
 ### GOAL STATEMENT
 #### To become a creative and driving force in the development of new and cutting edge software.
 ---

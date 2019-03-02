@@ -10,8 +10,11 @@
 - United States Navy veteran: Spent six years as a Navy Helicopter Rescue Swimmer. Trained in the Navy’s newest and most advanced multi-platform integrations software, providing connectivity between Aircraft Carrier commanders and combat helicopters.
 - Computer Science Student: 2018 President’s list at MiraCosta college with a 4.0 GPA over 28 credits in Summer and Fall terms. Member of Progressive Students of MiraCosta, which actively seeks to improve political involvement among students.
 - eSports enthusiast: Owner, creator and host of a podcast centered around the Pro and Pub scene of DotA 2. Topics cover all professional tournaments and news, as well as recent game patches and state-of-the-game.
+
 ---
+
 ### SKILLS
+
 Lifelong Learning | Professional Writing | Team Leadership
 ----------------- | -------------------- | ---------------
  Study of complex programs and entities. | Attention to detail. | Effective & direct communication.
@@ -19,6 +22,7 @@ Lifelong Learning | Professional Writing | Team Leadership
  Carrying lessons learned to the next objective. | Coordination with external partners | Utilization of *all* staff potential.
  
  ---
+ 
  ### WORK EXPERIENCE
  #### NAVAL HELICOPTER AIRCREWMAN (2012-2018)
 - Training (2017-2018): In charge of the overall training program for 28 crew members, planned and administered training events, and maintained training records for all members.

@@ -6,6 +6,7 @@
 #### To become a creative and driving force in the development of new and cutting edge software.
 ---
 ### PERSONAL SUMMARY
+
 * United States Navy veteran: Spent six years as a Navy Helicopter Rescue Swimmer. Trained in the Navy’s newest and most advanced multi-platform integrations software, providing connectivity between Aircraft Carrier commanders and combat helicopters.
 * Computer Science Student: 2018 President’s list at MiraCosta college with a 4.0 GPA over 28 credits in Summer and Fall terms. Member of Progressive Students of MiraCosta, which actively seeks to improve political involvement among students.
 * eSports enthusiast: Owner, creator and host of a podcast centered around the Pro and Pub scene of DotA 2. Topics cover all professional tournaments and news, as well as recent game patches and state-of-the-game.
